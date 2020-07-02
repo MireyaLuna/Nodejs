@@ -1,0 +1,14 @@
+{
+  "name": "mireyaluna",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "server": "nodemon servidor.js"
+  },
+  "author": "MireyaLuna",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^2.0.4"
+  }
+}
